@@ -46,17 +46,21 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/javascript/" target="_blank">
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="React" src="https://img.shields.io/badge/REACT%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a> 
  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Tailwind Css" src="https://img.shields.io/badge/Tailwind Css%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a> 
 </p>
 
@@ -64,19 +68,19 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Django" src="https://img.shields.io/badge/DJANGO%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Django" src="https://img.shields.io/badge/Django%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJs%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Express" src="https://img.shields.io/badge/EXPRESSJS-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Express Js" src="https://img.shields.io/badge/ExpressJS-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
  &emsp;  
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Socket.io" src="https://img.shields.io/badge/SOCKETIO%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a> 
 </p>
 
@@ -93,7 +97,7 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  &emsp;
-    <a href="https://mongodb.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a> 
+    <a href="https://mongodb.com/"><img alt="Mongodb" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a> 
 </p>
   
 ### Graphic Designing
