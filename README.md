@@ -51,6 +51,34 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+ &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="React" src="https://img.shields.io/badge/REACT%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a> 
+ &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a> 
+</p>
+
+### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Django" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Express" src="https://img.shields.io/badge/EXPRESSJS-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+ &emsp;  
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="Socket.io" src="https://img.shields.io/badge/SOCKETIO%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -65,7 +93,9 @@
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
+ &emsp;
+    <a href="https://mongodb.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a> 
+</p>
   
 ### 👉Graphic Designing
 <p align="left">
