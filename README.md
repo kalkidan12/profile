@@ -6,7 +6,6 @@
 <hr/>
 <h4 align="center">I am an enthusiastic, self-motivated, reliable, responsible and hard working Full-stack developer. I am a mature team worker and adaptable to all challenging problem-solving. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 
 
